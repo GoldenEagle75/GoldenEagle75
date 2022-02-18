@@ -2,7 +2,6 @@
 - 👀 I’m interested in creating 3D first person shooters.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on nothing so far.
-- 📫 How to reach me email=marshall.muhlhauser@gmail.com
 
 <!---
 GoldenEagle75/GoldenEagle75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
